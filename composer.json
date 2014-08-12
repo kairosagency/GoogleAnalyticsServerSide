@@ -11,7 +11,8 @@
     },
 	"license" : "LGPL-3.0",
     "require":{
-        "php":">=5.3"
+        "php":">=5.3",
+        "kairos/googleanalyticsserversidebundle": "~1.0.0"
     },
     "authors": [
         {
