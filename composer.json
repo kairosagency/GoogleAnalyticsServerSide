@@ -1,6 +1,6 @@
 {
     "name":"kairos/googleanalyticsserverside",
-    "description":"'ga.js in PHP' - Implementation of a generic server-side Google Analytics client in PHP that implements nearly every parameter and tracking feature of the original GA Javascript client. Should rather use now google universal analytics",
+    "description":"'ga.js in PHP' - Implementation of a generic server-side Google Analytics client in PHP that implements nearly every parameter and tracking feature of the original GA Javascript client.",
 	"homepage":"https://github.com/kairosagency/GoogleAnalyticsServerSide",
     "type":"library",
     "autoload":{
